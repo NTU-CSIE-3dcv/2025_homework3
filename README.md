@@ -7,7 +7,7 @@ Goal: Implement a VO based on two-view epipolar geometry
 
 ## Test Cases
 We provide two cases, case1 and case2.
-Plaese download case2 from [google drive](https://drive.google.com/drive/folders/1dMmuOB2X3oEfAybpFmy4ZCZvIhkdioIE?usp=drive_link). 
+Plaese download the frames of case2 from [google drive](https://drive.google.com/drive/folders/1dMmuOB2X3oEfAybpFmy4ZCZvIhkdioIE?usp=drive_link). 
 
 Each test case is recorded by a different camera, and therefore, we also provide a corresponding calibration video for each case.
 The dataset structure is as follows:
