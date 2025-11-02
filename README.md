@@ -6,14 +6,17 @@ Goal: Implement a VO based on two-view epipolar geometry
 - You are allowed to use any OpenCV API
 
 ## Test Cases
-We provide two cases, and case1 is easier than case2. Each test case is recorded by a different camera, and therefore, we also provide a corresponding calibration video for each case.
+We provide two cases, case1 and case2.
+Plaese download case2 from [google drive](https://drive.google.com/drive/folders/1dMmuOB2X3oEfAybpFmy4ZCZvIhkdioIE?usp=drive_link). 
+
+Each test case is recorded by a different camera, and therefore, we also provide a corresponding calibration video for each case.
 The dataset structure is as follows:
 ```
 case1
  ├── frames/
  └── calib_video_case1.avi
 case2
- ├── frames/
+ ├── frames/ 
  └── calib_video_case2.avi
 ```
 
